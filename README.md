@@ -4,8 +4,8 @@
 
 ### Purpose
 
-    The scenario of this assignment is that we received a hypothetical set of data describing  the results of a 
-variety of Kickstarter campaigns from Louise: an up-and coming playwright who intends to found her own campaign
+    The scenario of this assignment is that we received a hypothetical set of data describing
+the results of a variety of Kickstarter campaigns from Louise: an up-and coming playwright who intends to fund her own campaign
 to fund her play, "Fever". Through our analysis of the data, we intend to help her decide on a set of details for
 her own campaign in order to increase the likelyhood of it's success. This we achieve through the analysis of graphs
 and tables obtained by filtering the data to fit her specific needs.
